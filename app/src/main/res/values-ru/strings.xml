@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Акушерская кровопотеря</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="zeroweight">Вес до беременности</string>
+    <string name="currentweight">Текущий вес</string>
+    <string name="height">Рост</string>
+    <string name="gestage">Срок беременности</string>
+    <string name="weeks">недель</string>
+    <string name="age">Возраст</string>
+    <string name="countvolbtc">Объёмы</string>
+    <string name="countblostbtc">Кровопотеря</string>
+    <string name="gms">г.</string>
+    <string name="exit">Выход</string>
+    <string name="title_activity_display_volumes">Объёмы</string>
+    <string name="bsa">Площадь поверхности тела:</string>
+    <string name="sqm"> кв. м.</string>
+    <string name="nonpreg">Для небеременных с данными параметрами:</string>
+    <string name="wholebloodvol">Объём циркулирующей крови:</string>
+    <string name="plasmavol">Объём циркулирующей плазмы:</string>
+    <string name="eryvol">Объём эритроцитов:</string>
+    <string name="preg">Для беременных в сроке</string>
+    <string name="acceptedbloodlost">Допустимая кровопотеря:</string>
+    <string name="mls">мл.</string>
+    <string name="enterzerohb">Гемоглобин до кровопотери</string>
+    <string name="entertargethb">Гемоглобин после кровопотери</string>
+    <string name="blosscounted">Кровопотеря составила</string>
+    <string name="thatis">Это</string>
+    <string name="ofbloodvolume">% от объёма циркулирующей крови, или</string>
+    <string name="ofplasmavolume">% от объёма циркулирующей плазмы, или</string>
+    <string name="ofbobyweight">% от массы тела.</string>
+
+</resources>
